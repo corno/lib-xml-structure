@@ -6,7 +6,7 @@ import {
     aInterfaceMethod,
     aInterfaceReference,
     array, constructor, data, dictionary, externalTypeReference, glossaryParameter, group, imp,
-    member, nested, ref, sfunction, streamconsumer, string, taggedUnion, type, typeReference
+    member, ref, sfunction, streamconsumer, string, taggedUnion, type, typeReference
 } from "lib-pareto-typescript-project/dist/submodules/glossary/shorthands"
 
 import * as g_glossary from "lib-pareto-typescript-project/dist/submodules/glossary"
@@ -14,7 +14,7 @@ import * as g_glossary from "lib-pareto-typescript-project/dist/submodules/gloss
 const d = pd.d
 
 export const $: g_glossary.T.Glossary<pd.SourceLocation> = {
-    'parameters': d({
+    'glossary parameters': d({
     }),
     'imports': d({
     }),
